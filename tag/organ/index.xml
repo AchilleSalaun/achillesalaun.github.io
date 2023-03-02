@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organ | Achille Salaün</title>
+    <link>https://achillesalaun.github.io/tag/organ/</link>
+      <atom:link href="https://achillesalaun.github.io/tag/organ/index.xml" rel="self" type="application/rss+xml" />
+    <description>organ</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Achille Salaün 2021 :-) Thanks to Marc-Olivier Buob and Kamélia Daudel for their kind feedbacks about this webpage &amp;lt;3 </copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://achillesalaun.github.io/media/icon_hu2f7b1e0cb2ffffc70244085a16eba49a_73381_512x512_fill_lanczos_center_3.png</url>
+      <title>organ</title>
+      <link>https://achillesalaun.github.io/tag/organ/</link>
+    </image>
+    
+    <item>
+      <title>Xamelot</title>
+      <link>https://achillesalaun.github.io/project/xmlot/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/project/xmlot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
