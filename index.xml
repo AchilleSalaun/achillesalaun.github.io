@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Achille Salaün</title>
+    <link>https://achillesalaun.github.io/</link>
+      <atom:link href="https://achillesalaun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Achille Salaün</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Achille Salaün 2021 :-) Thanks to Marc-Olivier Buob and Kamélia Daudel for their kind feedbacks about this webpage &amp;lt;3 </copyright><lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://achillesalaun.github.io/media/icon_hu2f7b1e0cb2ffffc70244085a16eba49a_73381_512x512_fill_lanczos_center_3.png</url>
+      <title>Achille Salaün</title>
+      <link>https://achillesalaun.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Alarm prediction in networks via space-time pattern matching and machine learning</title>
+      <link>https://achillesalaun.github.io/publication/2021_thesis/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2021_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veggie</title>
+      <link>https://achillesalaun.github.io/project/veggie/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/project/veggie/</guid>
+      <description>&lt;p&gt;Veggie is Python framework allowing to manipulates tries, automaton and more generally data structure used in language theory. In particular, it provides an implementation of our
+algorithms related to DIG-DAG.&lt;/p&gt;
+&lt;p&gt;This work has been at the core of a collaboration with Nokia&amp;rsquo;s business units.&lt;/p&gt;
+&lt;p&gt;This library is based on &lt;a href=&#34;https://github.com/nokia/PyBGL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pybgl&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DIG-DAG: stockage et recherche de motifs dans un flux d&#39;événements</title>
+      <link>https://achillesalaun.github.io/publication/2020_algotel/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2020_algotel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo abstract: end-to-end root cause analysis of a mobile network</title>
+      <link>https://achillesalaun.github.io/publication/2020_infocom/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2020_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pybgl</title>
+      <link>https://achillesalaun.github.io/project/pybgl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/project/pybgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the modeling powers of RNN and HMM</title>
+      <link>https://achillesalaun.github.io/publication/2019_icmla/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2019_icmla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-time pattern extraction in alarm logs for network diagnosis</title>
+      <link>https://achillesalaun.github.io/publication/2019_mln/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2019_mln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log analysis via space-time pattern matching</title>
+      <link>https://achillesalaun.github.io/publication/2018_cnsm/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2018_cnsm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

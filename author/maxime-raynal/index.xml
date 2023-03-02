@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxime Raynal | Achille Salaün</title>
+    <link>https://achillesalaun.github.io/author/maxime-raynal/</link>
+      <atom:link href="https://achillesalaun.github.io/author/maxime-raynal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maxime Raynal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Achille Salaün 2021 :-) Thanks to Marc-Olivier Buob and Kamélia Daudel for their kind feedbacks about this webpage &amp;lt;3 </copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://achillesalaun.github.io/media/icon_hu2f7b1e0cb2ffffc70244085a16eba49a_73381_512x512_fill_lanczos_center_3.png</url>
+      <title>Maxime Raynal</title>
+      <link>https://achillesalaun.github.io/author/maxime-raynal/</link>
+    </image>
+    
+    <item>
+      <title>DIG-DAG: stockage et recherche de motifs dans un flux d&#39;événements</title>
+      <link>https://achillesalaun.github.io/publication/2020_algotel/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2020_algotel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log analysis via space-time pattern matching</title>
+      <link>https://achillesalaun.github.io/publication/2018_cnsm/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2018_cnsm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
