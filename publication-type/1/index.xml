@@ -5,12 +5,20 @@
     <link>https://achillesalaun.github.io/publication-type/1/</link>
       <atom:link href="https://achillesalaun.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Achille Salaün 2021 :-) Thanks to Marc-Olivier Buob and Kamélia Daudel for their kind feedbacks about this webpage &amp;lt;3 </copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Achille Salaün 2021 :-) Thanks to Marc-Olivier Buob and Kamélia Daudel for their kind feedbacks about this webpage &amp;lt;3 </copyright><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://achillesalaun.github.io/media/icon_hu2f7b1e0cb2ffffc70244085a16eba49a_73381_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://achillesalaun.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Clinical Decision Support Systems Used in Transplantation: Are They Tools for Success or an Unnecessary Gadget? A Systematic Review</title>
+      <link>https://achillesalaun.github.io/publication/2023_transplantation/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2023_transplantation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DIG-DAG: stockage et recherche de motifs dans un flux d&#39;événements</title>
