@@ -5,12 +5,20 @@
     <link>https://achillesalaun.github.io/author/yohan-petetin/</link>
       <atom:link href="https://achillesalaun.github.io/author/yohan-petetin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yohan Petetin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Achille Salaün 2021 :-) Thanks to Marc-Olivier Buob and Kamélia Daudel for their kind feedbacks about this webpage &amp;lt;3 </copyright><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Achille Salaün 2021 :-) Thanks to Marc-Olivier Buob and Kamélia Daudel for their kind feedbacks about this webpage &amp;lt;3 </copyright><lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://achillesalaun.github.io/media/icon_hu2f7b1e0cb2ffffc70244085a16eba49a_73381_512x512_fill_lanczos_center_3.png</url>
       <title>Yohan Petetin</title>
       <link>https://achillesalaun.github.io/author/yohan-petetin/</link>
     </image>
+    
+    <item>
+      <title>Expressivity of Hidden Markov Chains vs. Recurrent Neural Networks from a system theoretic viewpoint</title>
+      <link>https://achillesalaun.github.io/publication/2023_expressivity/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2023_expressivity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparing the modeling powers of RNN and HMM</title>

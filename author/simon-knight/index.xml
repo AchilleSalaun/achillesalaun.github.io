@@ -5,12 +5,20 @@
     <link>https://achillesalaun.github.io/author/simon-knight/</link>
       <atom:link href="https://achillesalaun.github.io/author/simon-knight/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Knight</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Achille Salaün 2021 :-) Thanks to Marc-Olivier Buob and Kamélia Daudel for their kind feedbacks about this webpage &amp;lt;3 </copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Achille Salaün 2021 :-) Thanks to Marc-Olivier Buob and Kamélia Daudel for their kind feedbacks about this webpage &amp;lt;3 </copyright><lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://achillesalaun.github.io/media/icon_hu2f7b1e0cb2ffffc70244085a16eba49a_73381_512x512_fill_lanczos_center_3.png</url>
       <title>Simon Knight</title>
       <link>https://achillesalaun.github.io/author/simon-knight/</link>
     </image>
+    
+    <item>
+      <title>Interpretable Machine Learning in Kidney Offering: Multiple Outcome Prediction for Accepted Offers</title>
+      <link>https://achillesalaun.github.io/publication/2023_accepted/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://achillesalaun.github.io/publication/2023_accepted/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
