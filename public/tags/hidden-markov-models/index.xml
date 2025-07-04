@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hidden Markov Models | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/hidden-markov-models/</link>
+      <atom:link href="http://localhost:1313/tags/hidden-markov-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hidden Markov Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_390c6e4e637ea7b7.png</url>
+      <title>Hidden Markov Models</title>
+      <link>http://localhost:1313/tags/hidden-markov-models/</link>
+    </image>
+    
+    <item>
+      <title>Expressivity of Hidden Markov Chains vs. Recurrent Neural Networks from a system theoretic viewpoint</title>
+      <link>http://localhost:1313/publication/2023_tsp/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_tsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the modeling powers of RNN and HMM</title>
+      <link>http://localhost:1313/publication/2019_icmla/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019_icmla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

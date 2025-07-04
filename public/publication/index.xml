@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_390c6e4e637ea7b7.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable Machine Learning in Kidney Offering: Multiple Outcome Prediction for Accepted Offers</title>
+      <link>http://localhost:1313/publication/2024_sr/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Decision Support Systems Used in Transplantation: Are They Tools for Success or an Unnecessary Gadget? A Systematic Review</title>
+      <link>http://localhost:1313/publication/2023_transplantation/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_transplantation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expressivity of Hidden Markov Chains vs. Recurrent Neural Networks from a system theoretic viewpoint</title>
+      <link>http://localhost:1313/publication/2023_tsp/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_tsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alarm prediction in networks via space-time pattern matching and machine learning</title>
+      <link>http://localhost:1313/publication/2021_thesis/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIG-DAG: stockage et recherche de motifs dans un flux d&#39;événements</title>
+      <link>http://localhost:1313/publication/2020_algotel/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020_algotel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo abstract: end-to-end root cause analysis of a mobile network</title>
+      <link>http://localhost:1313/publication/2020_infocom/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the modeling powers of RNN and HMM</title>
+      <link>http://localhost:1313/publication/2019_icmla/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019_icmla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-time pattern extraction in alarm logs for network diagnosis</title>
+      <link>http://localhost:1313/publication/2019_mln/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019_mln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log analysis via space-time pattern matching</title>
+      <link>http://localhost:1313/publication/2018_cnsm/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018_cnsm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

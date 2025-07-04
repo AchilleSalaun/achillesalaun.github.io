@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIG-DAG | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/dig-dag/</link>
+      <atom:link href="http://localhost:1313/tags/dig-dag/index.xml" rel="self" type="application/rss+xml" />
+    <description>DIG-DAG</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_390c6e4e637ea7b7.png</url>
+      <title>DIG-DAG</title>
+      <link>http://localhost:1313/tags/dig-dag/</link>
+    </image>
+    
+    <item>
+      <title>Prédiction d&#39;alarmes dans les réseaux via la recherche de motifs spatio-temporels et l&#39;apprentissage automatique</title>
+      <link>http://localhost:1313/talk/phd/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/phd/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+&lt;iframe 
+    src=&#34;https://www.youtube.com/embed/_k5j1t9okRE&#34; 
+    style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; 
+    title=&#34;Prédiction d&#39;alarmes dans les réseaux via la recherche de motifs spatio-temporels et l&#39;apprentissage automatique&#34;
+    allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; 
+    allowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-end root cause analysis of a mobile network</title>
+      <link>http://localhost:1313/talk/infocom/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/infocom/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+&lt;iframe 
+    src=&#34;https://www.youtube.com/embed/lCMQLsoLCoY&#34; 
+    style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; 
+    title=&#34;End-to-end root cause analysis of a mobile network&#34;
+    allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; 
+    allowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

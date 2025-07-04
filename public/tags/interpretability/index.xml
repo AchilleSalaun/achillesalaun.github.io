@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interpretability | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/interpretability/</link>
+      <atom:link href="http://localhost:1313/tags/interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interpretability</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_390c6e4e637ea7b7.png</url>
+      <title>Interpretability</title>
+      <link>http://localhost:1313/tags/interpretability/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable Machine Learning in Kidney Offering: Multiple Outcome Prediction for Accepted Offers</title>
+      <link>http://localhost:1313/publication/2024_sr/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alarm prediction in networks via space-time pattern matching and machine learning</title>
+      <link>http://localhost:1313/publication/2021_thesis/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

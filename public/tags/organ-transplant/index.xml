@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organ Transplant | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/organ-transplant/</link>
+      <atom:link href="http://localhost:1313/tags/organ-transplant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Organ Transplant</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_390c6e4e637ea7b7.png</url>
+      <title>Organ Transplant</title>
+      <link>http://localhost:1313/tags/organ-transplant/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable machine learning for graft outcome prediction</title>
+      <link>http://localhost:1313/talk/oxford_global/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/oxford_global/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+&lt;iframe 
+    src=&#34;https://www.youtube.com/embed/rCe7-TUnpTA&#34; 
+    style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; 
+    title=&#34;Interpretable machine learning for graft outcome prediction&#34;
+    allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; 
+    allowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

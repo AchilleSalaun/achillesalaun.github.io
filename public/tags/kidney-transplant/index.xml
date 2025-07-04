@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kidney Transplant | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/kidney-transplant/</link>
+      <atom:link href="http://localhost:1313/tags/kidney-transplant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kidney Transplant</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_390c6e4e637ea7b7.png</url>
+      <title>Kidney Transplant</title>
+      <link>http://localhost:1313/tags/kidney-transplant/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable Machine Learning in Kidney Offering: Multiple Outcome Prediction for Accepted Offers</title>
+      <link>http://localhost:1313/publication/2024_sr/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Decision Support Systems Used in Transplantation: Are They Tools for Success or an Unnecessary Gadget? A Systematic Review</title>
+      <link>http://localhost:1313/publication/2023_transplantation/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_transplantation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

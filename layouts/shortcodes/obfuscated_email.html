@@ -1,0 +1,13 @@
+{{/* Doing some ROT 13 obfuscation */}}
+{{$text := .Get 0 }}
+<script type="text/javascript">
+	document.write("<n uers=\"znvygb:npuvyyrfnynha@tznvy.pbz\" ery=\"absbyybj\">{{$text}}</n>".replace(/[a-zA-Z]/g,
+	function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>
+<noscript>
+  <strong>
+    <span style="unicode-bidi:bidi-override; direction: rtl;">
+      moc.liamg@nualasellihca
+    </span>
+</strong>
+</noscript>

@@ -1,0 +1,16 @@
+{{- $username := .Get 0 -}}
+{{- $username_url := $username | urlize -}}
+{{- $taxonomy := "authors" -}}
+{{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $username_url) -}}
+{{- $name := $profile_page.Title | default ($username|markdownify) -}}
+{{- with $profile_page -}}
+<span class="article-metadata li-cite-author">
+    {{- with $profile_page.Params.external_link -}}
+      <a href="{{$profile_page.Params.external_link}}">{{$name}}</a>
+    {{- else -}}
+      <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
+    {{- end -}}
+</span>
+{{- else -}}
+{{- $name -}}
+{{- end -}}
