@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://achillesalaun.github.io/</link>
+      <atom:link href="https://achillesalaun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_390c6e4e637ea7b7.png</url>
+      <url>https://achillesalaun.github.io/media/icon_hu_390c6e4e637ea7b7.png</url>
       <title>Hugo Academic CV Theme</title>
-      <link>http://localhost:1313/</link>
+      <link>https://achillesalaun.github.io/</link>
     </image>
     
     <item>
       <title>Interpretable Machine Learning in Kidney Offering: Multiple Outcome Prediction for Accepted Offers</title>
-      <link>http://localhost:1313/publication/2024_sr/</link>
+      <link>https://achillesalaun.github.io/publication/2024_sr/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024_sr/</guid>
+      <guid>https://achillesalaun.github.io/publication/2024_sr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://achillesalaun.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://achillesalaun.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clinical Decision Support Systems Used in Transplantation: Are They Tools for Success or an Unnecessary Gadget? A Systematic Review</title>
-      <link>http://localhost:1313/publication/2023_transplantation/</link>
+      <link>https://achillesalaun.github.io/publication/2023_transplantation/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023_transplantation/</guid>
+      <guid>https://achillesalaun.github.io/publication/2023_transplantation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://achillesalaun.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://achillesalaun.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/js/</link>
+      <link>https://achillesalaun.github.io/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/js/</guid>
+      <guid>https://achillesalaun.github.io/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -91,7 +91,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://achillesalaun.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -168,9 +168,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/python/</link>
+      <link>https://achillesalaun.github.io/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/python/</guid>
+      <guid>https://achillesalaun.github.io/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -213,7 +213,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://achillesalaun.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -290,9 +290,9 @@ data.head()
     
     <item>
       <title>Interpretable machine learning for graft outcome prediction</title>
-      <link>http://localhost:1313/talk/oxford_global/</link>
+      <link>https://achillesalaun.github.io/talk/oxford_global/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/oxford_global/</guid>
+      <guid>https://achillesalaun.github.io/talk/oxford_global/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
 &lt;iframe 
     src=&#34;https://www.youtube.com/embed/rCe7-TUnpTA&#34; 
@@ -307,25 +307,25 @@ data.head()
     
     <item>
       <title>Expressivity of Hidden Markov Chains vs. Recurrent Neural Networks from a system theoretic viewpoint</title>
-      <link>http://localhost:1313/publication/2023_tsp/</link>
+      <link>https://achillesalaun.github.io/publication/2023_tsp/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023_tsp/</guid>
+      <guid>https://achillesalaun.github.io/publication/2023_tsp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alarm prediction in networks via space-time pattern matching and machine learning</title>
-      <link>http://localhost:1313/publication/2021_thesis/</link>
+      <link>https://achillesalaun.github.io/publication/2021_thesis/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021_thesis/</guid>
+      <guid>https://achillesalaun.github.io/publication/2021_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prédiction d&#39;alarmes dans les réseaux via la recherche de motifs spatio-temporels et l&#39;apprentissage automatique</title>
-      <link>http://localhost:1313/talk/phd/</link>
+      <link>https://achillesalaun.github.io/talk/phd/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/phd/</guid>
+      <guid>https://achillesalaun.github.io/talk/phd/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
 &lt;iframe 
     src=&#34;https://www.youtube.com/embed/_k5j1t9okRE&#34; 
@@ -340,25 +340,25 @@ data.head()
     
     <item>
       <title>DIG-DAG: stockage et recherche de motifs dans un flux d&#39;événements</title>
-      <link>http://localhost:1313/publication/2020_algotel/</link>
+      <link>https://achillesalaun.github.io/publication/2020_algotel/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020_algotel/</guid>
+      <guid>https://achillesalaun.github.io/publication/2020_algotel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo abstract: end-to-end root cause analysis of a mobile network</title>
-      <link>http://localhost:1313/publication/2020_infocom/</link>
+      <link>https://achillesalaun.github.io/publication/2020_infocom/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020_infocom/</guid>
+      <guid>https://achillesalaun.github.io/publication/2020_infocom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-end root cause analysis of a mobile network</title>
-      <link>http://localhost:1313/talk/infocom/</link>
+      <link>https://achillesalaun.github.io/talk/infocom/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/infocom/</guid>
+      <guid>https://achillesalaun.github.io/talk/infocom/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
 &lt;iframe 
     src=&#34;https://www.youtube.com/embed/lCMQLsoLCoY&#34; 
@@ -372,25 +372,25 @@ data.head()
     
     <item>
       <title>Comparing the modeling powers of RNN and HMM</title>
-      <link>http://localhost:1313/publication/2019_icmla/</link>
+      <link>https://achillesalaun.github.io/publication/2019_icmla/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019_icmla/</guid>
+      <guid>https://achillesalaun.github.io/publication/2019_icmla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Space-time pattern extraction in alarm logs for network diagnosis</title>
-      <link>http://localhost:1313/publication/2019_mln/</link>
+      <link>https://achillesalaun.github.io/publication/2019_mln/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019_mln/</guid>
+      <guid>https://achillesalaun.github.io/publication/2019_mln/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Log analysis via space-time pattern matching</title>
-      <link>http://localhost:1313/publication/2018_cnsm/</link>
+      <link>https://achillesalaun.github.io/publication/2018_cnsm/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018_cnsm/</guid>
+      <guid>https://achillesalaun.github.io/publication/2018_cnsm/</guid>
       <description></description>
     </item>
     
