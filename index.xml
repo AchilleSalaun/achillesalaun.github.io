@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Academic CV Theme</title>
+    <title>Achille Salaün</title>
     <link>https://achillesalaun.github.io/</link>
       <atom:link href="https://achillesalaun.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo Academic CV Theme</description>
+    <description>Achille Salaün</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://achillesalaun.github.io/media/icon_hu_390c6e4e637ea7b7.png</url>
-      <title>Hugo Academic CV Theme</title>
+      <title>Achille Salaün</title>
       <link>https://achillesalaun.github.io/</link>
     </image>
     
